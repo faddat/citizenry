@@ -67,7 +67,7 @@ gem "paper_trail_manager"
 # gem "paper_trail_manager", :path => "../paper_trail_manager"
 
 #--[ View ]---------------------------------------------------------------------
-gem "haml", "~> 3.1.2"
+gem "haml", "~> 5.1.2"
 gem "sass", "~> 3.1.4"
 gem "compass-960-plugin", "~> 0.10.4", :require => "ninesixty"
 gem "jquery-rails", ">= 1.0.14"
